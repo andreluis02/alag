@@ -1,0 +1,3 @@
+echo "Dia 1: aprendendo sobre commits e GitHub" > anotacoes.txt
+git add anotacoes.txt
+git commit -m "Commit 2: adiciona anotações sobre Git"
