@@ -1,0 +1,3 @@
+echo "Participando do Guild da Zama" >> README.md
+git add README.md
+git commit -m "Commit 3: atualiza README com participação no Guild Zama"
