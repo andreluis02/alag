@@ -1,0 +1,3 @@
+echo "Metas para 2025: crescer no GitHub e aprender Zama" > metas.txt
+git add metas.txt
+git commit -m "Commit 1: adiciona arquivo de metas para 2025"
