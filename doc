@@ -1,0 +1,3 @@
+echo "## Documentação Inicial" > docs.md
+git add docs.md
+git commit -m "Commit 4: cria arquivo de documentação inicial"
